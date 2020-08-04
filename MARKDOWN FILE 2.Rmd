@@ -1,0 +1,14 @@
+---
+title: "MARKDOWN_FILE_2"
+author: "Saurav Purkayastha"
+date: "04/08/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+**THIS IS A MARKDOWN FILE**.
